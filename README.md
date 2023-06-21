@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" /> I'm Krishna</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna11118&label=Profile%20views&color=0e75b6&style=flat" alt="krishna11118 " /> </p>
