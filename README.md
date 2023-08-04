@@ -1,32 +1,96 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+<!-- <p align="center">
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" /> I'm Krishna</h1>
-<h3 align="center">Currently learning MERN stack development</h3>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+vishal;Web+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna11118&label=Profile%20views&color=0e75b6&style=flat" alt="krishna11118 " /> </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+ 
+ 
+  <a href="https://github.com/Krishna11118" title="portfolio">
+<!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
+  
+  
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Krishna11118&text=Hi+I'm+Krishna&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna11118" alt="krishna11118" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/krishna11118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krishna11118" height="30" width="40" /></a>
-<a href="https://dev.to/krisshnacool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krisshnacool" height="30" width="40" /></a>
-<a href="https://twitter.com/krisshnacool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krisshnacool" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-singh-ab254413a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19857093/krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19857093/krishna" height="30" width="40" /></a>
-<a href="https://codesandbox.com/krishnassss365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="krishnassss365" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna__365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna__365/" height="30" width="40" /></a>
-<a href="https://dribbble.com/krisshnacool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="krisshnacool" height="30" width="40" /></a>
-<a href="https://hashnode.com/krisshnacool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="krisshnacool" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/krishnassss365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="krishnassss365" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/krishna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krishna_" height="30" width="40" /></a>
-</p>
+  
+  
+  
+ <!-- <p align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||Web+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna11118&show_icons=true&locale=en&layout=compact" alt="krishna11118" /></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna11118&label=Profile%20views&color=0e75b6&style=flat" alt="krishna11118 " /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna11118&show_icons=true&locale=en" alt="krishna11118" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna11118&" alt="krishna11118" /></p>
+  
+<!-- Love learning new technologies and contributing to open source.
+
+- 🌱 I’m currently learning : **Machine learning** 
+- 🔭 I’m looking to collaborate on any good project on **Fintech**
+- 💬 Ask me about : **JAVASCRIPT / REACT** -->
+
+<!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/Krishna11118?tab=repositories) 
+[<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/Krishna11118?tab=repositories) -->
+
+<p> Hello, I am Krishna an enthusiastic front-end developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
+
+I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I transform imaginative designs into functional websites.
+
+<!-- I thrive on continuous learning, staying updated with the latest technologies and trends. Collaboration is at the core of my process, working closely with designers and stakeholders to create visually stunning and intuitive websites. </p> -->
+
+<p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
+
+<div>
+<!--         <a href="https://github.com/FahimFBA?tab=followers"> -->
+<!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Krishna11118?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
+      <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Krishna11118?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<!--  👥 Let's Connect 👉
+<a href="https://www.linkedin.com/in/Krishna365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>** -->
+
+
+      
+    👥 Let's Connect 🤝 
+<a href="https://www.linkedin.com/in/Krishna365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ <a href = "https://dev.to/krisshnacool"><img src="https://img.shields.io/badge/Dev-E4405F?style=for-the-badge&logo=dev&logoColor=white" 
+ target="_blank"></a></p>   
+
+
+
+**<p align="left">  💻 Tech stack 🛠 </p>**
+
+<div align="left"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/java-FFD43B?style=for-the-badge&logo=java&logoColor=blue"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white">
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </div>
+
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=white" alt="Krishna11118" /></p>  
+
+
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
+-->
+
+</div> 
+
+ 
+[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://krishnaaportfolio.netlify.app/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">
