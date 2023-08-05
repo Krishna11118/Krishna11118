@@ -47,16 +47,14 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I tr
 <!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Krishna11118?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
       <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Krishna11118?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<!--  👥 Let's Connect 👉
-<a href="https://www.linkedin.com/in/Krishna365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>** -->
-
 
       
-    👥 Let's Connect 🤝 
+   
+  **<p align="left">  👥 Let's Connect 🤝  </p>**
+
 <a href="https://www.linkedin.com/in/Krishna365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href = "https://dev.to/krisshnacool"><img src="https://img.shields.io/badge/Dev-E4405F?style=for-the-badge&logo=dev&logoColor=white" 
- target="_blank"></a></p>   
-
+ target="_blank"></a>
 
 
 **<p align="left">  💻 Tech stack 🛠 </p>**
