@@ -1,13 +1,4 @@
-<!-- <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+vishal;Web+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
- 
- 
-  <a href="https://github.com/Krishna11118" title="portfolio">
-<!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
-  
   
   <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Krishna11118&text=Hi+I'm+Krishna&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
 </a>
@@ -36,9 +27,9 @@
 
 <p> Hello, I am Krishna an enthusiastic front-end developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
 
-I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I transform imaginative designs into functional websites.
+I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailwind, HTML, and Bootstrap. I transform imaginative designs into functional websites.
 
-<!-- I thrive on continuous learning, staying updated with the latest technologies and trends. Collaboration is at the core of my process, working closely with designers and stakeholders to create visually stunning and intuitive websites. </p> -->
+<!-- I thrive on continuous learning, and staying updated with the latest technologies and trends. Collaboration is at the core of my process, working closely with designers and stakeholders to create visually stunning and intuitive websites. </p> -->
 
 <p> I am always seeking out new challenges and opportunities to expand my skill set, and I am excited to bring my expertise and passion for software development to any organization. </p>
 
