@@ -72,7 +72,7 @@ I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailw
 
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=white" alt="Krishna11118" /></p>  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=dark" alt="Krishna11118" /></p>  
 
 
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
