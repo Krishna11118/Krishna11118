@@ -7,9 +7,9 @@
   
   
   
- <!-- <p align="center">
+ <!-- <p align="center"> -->
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||Web+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">  -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||UI+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000"> 
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna11118&label=Profile%20views&color=0e75b6&style=flat" alt="krishna11118 " /> </p>
@@ -75,8 +75,7 @@ I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailw
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=dark" alt="Krishna11118" /></p>  
 
 
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
--->
+
 
 </div> 
 
