@@ -1,7 +1,4 @@
 
-  
-  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Krishna11118&text=Hi+I'm+Krishna&fontFamily='Rubik+Maze'&pattern='p2'" \ height="280px" width="100%">
-</a>
 
 
 
