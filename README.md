@@ -77,7 +77,6 @@ I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailw
 
 </div> 
 
-   ![Snake animation](https://github.com/krishna11118/krishna11118/blob/output/github-contribution-grid-snake.svg)
 
 [![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://krishnaaportfolio.netlify.app/)
 
