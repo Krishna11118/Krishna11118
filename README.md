@@ -50,23 +50,27 @@ I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailw
 
 <div align="left"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-    <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=react&logoColor=000000"> 
+    <img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=61DBFB"> 
+    <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=react&logoColor=000000">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=javascript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/java-FFD43B?style=for-the-badge&logo=java&logoColor=blue"> 
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+      <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL&logoColor=06B6D4">
+        <img src="https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=AWS&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-323330?style=for-the-badge&logo=javascript&logoColor=06B6D4">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-    <img src="https://img.shields.io/badge/tailwindcss-323330?style=for-the-badge&logo=javascript&logoColor=06B6D4">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </div>
+
+</div>
 
 
 <div align="center">
