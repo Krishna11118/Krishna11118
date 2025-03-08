@@ -82,7 +82,7 @@ I have a solid foundation in JavaScript, Typescript, Nextjs, ReactJS, CSS, Tailw
 </div> 
 
 
-[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://https://www.krishnastonetech.live//)
+[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://https://www.krishnastonetech.live)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
