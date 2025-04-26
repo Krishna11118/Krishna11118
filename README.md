@@ -36,9 +36,8 @@
 <div>
 <!--         <a href="https://github.com/FahimFBA?tab=followers"> -->
 <!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Krishna11118?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
-      <a href="https://github.com/Krishna11118">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Krishna11118?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-      </a>
+  <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Krishna11118?style=for-the-badge&logo=github&label=Stars&color=55960c&labelColor=488207" />
+
 
       
    
