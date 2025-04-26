@@ -23,7 +23,7 @@
 <!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/Krishna11118?tab=repositories) 
 [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/Krishna11118?tab=repositories) -->
 <p>
-  Hello, I am Krishna, a passionate full-stack developer specializing in the<strong> MERN Stack</strong>, 
+  Hello, I am Krishna, a passionate full-stack developer specializing in the<strong> MERN Stack</strong>, <strong> Next.js</strong> <strong>,
   <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>, 
   dedicated to building dynamic, user-friendly web experiences.
 </p>
