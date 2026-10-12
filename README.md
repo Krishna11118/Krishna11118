@@ -23,7 +23,7 @@
 <!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/Krishna11118?tab=repositories) 
 [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/Krishna11118?tab=repositories) -->
 <p>
-  Hello, I am Krishna, a passionate full-stack developer specializing in the<strong> MERN Stack</strong>, <strong> Next.js</strong> <strong>,
+  Hello, I am Krishna, a passionate full-stack developer specializing in the <strong>React Native</strong>, <strong> MERN Stack</strong>, <strong> Next.js</strong> <strong>,
   <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>, 
   dedicated to building dynamic, user-friendly web experiences.
 </p>
@@ -50,7 +50,7 @@
 
 <div align="left"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<!--     <img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=61DBFB">  -->
+    <img src="https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=61DBFB"> 
     <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=react&logoColor=000000">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=javascript&logoColor=3178C6">
@@ -59,11 +59,14 @@
 <!--   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=3178C6"> -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    <img src="https://img.shields.io/badge/tailwindcss-323330?style=for-the-badge&logo=javascript&logoColor=06B6D4">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL&logoColor=06B6D4">
   <img src="https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=AWS&logoColor=06B6D4">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF">
